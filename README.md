@@ -1,2 +1,0 @@
-# JAMMS_HOSPITAL
-Hospital
